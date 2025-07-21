@@ -1,5 +1,7 @@
 # 12 Factors of Information Capitalism
 
+Inspired by the original [12-Factor App](https://12factor.net/) and the excellent work on [12-Factor Agents](https://github.com/humanlayer/12-factor-agents).
+
 ### 1. **Information is Negative Entropy**
 
 > Information is not data — it is order extracted from chaos.
